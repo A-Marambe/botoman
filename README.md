@@ -1,14 +1,17 @@
 # botoman
-web app development in cloud with live maps and dashboards
+A web app development in cloud with live maps and dashboards and many more feature elemnts to add
 
-This web app, deployed in heroku cloud is consist of webmaps, Dashboards and many more features.
-main elements, 
-* maps
+##What does it contains? 
+* live web maps
 * Dashboards
-* image analysis tools
+* image analysis tools (to be add) with postgresql database
 
+## where dose it risides?
 The app can be reached using the following url.
 https://botoman.herokuapp.com/
+
+It is deployed into the heroku cloud
+
 
 Project consist of,
 python Flask backend code and HTML/CSS frontend. 
