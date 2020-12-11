@@ -1,7 +1,7 @@
 # botoman
 A web app development in cloud with live maps and dashboards and many more feature elemnts to add
 
-##What does it contains? 
+## What does it contains? 
 * live web maps
 * Dashboards
 * image analysis tools (to be add) with postgresql database
@@ -14,5 +14,7 @@ It is deployed into the heroku cloud
 
 
 Project consist of,
-python Flask backend code and HTML/CSS frontend. 
+python Flask backend
+HTML/CSS frontend
+postgreSQL DB
 
