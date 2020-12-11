@@ -14,7 +14,7 @@ It is deployed into the heroku cloud
 
 
 Project consist of,
-python Flask backend
-HTML/CSS frontend
-postgreSQL DB
+* python Flask backend
+* HTML/CSS frontend
+* postgreSQL DB
 
