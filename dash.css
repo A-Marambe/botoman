@@ -1,0 +1,34 @@
+body{
+  background-color:#ffffff;
+  color:#114E74;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:16px;
+  line-height:1.6em;
+  margin:0
+}
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+  }
+#main-header{
+  background-color:#118EDE;
+  color:#ffffff;
+}
+#navbar{
+  background-color:#114E74;
+  color:#ffffff;
+}
+#navbar ul{
+  padding:0;
+  list-style: none;
+}
+#navbar li{
+  display:inline;
+}
+#navbar a{
+  color:#ffffff;
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+}

@@ -1,0 +1,126 @@
+body{
+  background-color:#ffffff;
+  color:#114E74;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:16px;
+  line-height:1.6em;
+  margin:0
+}
+
+.container{
+  width:80%;
+  margin:auto;
+  overflow:hidden;
+  }
+#main-header{
+  background-color:#118EDE;
+  color:#ffffff;
+}
+
+#navbar{
+  background-color:#114E74;
+  color:#ffffff;
+}
+
+#navbar ul{
+  padding:0;
+  list-style: none;
+}
+#navbar li{
+  display: inline;
+}
+#navbar a{
+  color:#ffffff;
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+}
+#showcase{
+  background-image: url('../images/ar1.jpg');
+  background-position: center right;
+  min-height: 300px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+#showcase h1{
+  color:#ffffff;
+  font-size: 25px;
+  line-height: 1.6em;
+  padding-top: 30px;
+}
+#main{
+  float:left;
+  width:70%;
+  padding:0 30px;
+  box-sizing: border-box;
+}
+
+#sidebar{
+  float: right;
+  width:30%;
+  background:#114E74;
+  color:#ffffff;
+  padding:10px;
+  box-sizing: border-box;
+}
+#sidebar2{
+  float: right;
+  width:30%;
+  /*background:#114E74;*/
+  color:#114E74;
+  padding:10px;
+  box-sizing: border-box;
+  margin-top:10px;
+}
+#sidebar3{
+  float: left;
+  width:68%;
+  background:#114E74;
+  color:#ffffff;
+  padding:10px;
+  box-sizing: border-box;
+  margin-top:10px;
+}
+
+#imap{
+  /*height:500px;
+  width:700px;*/
+  width:67%;
+  height: 500px;
+  margin-top: 50px;
+  padding: 5px;
+  background-color:#114E74;
+}
+
+#main-footer{
+  background-color:#171A1A;
+  color:#ffffff;
+  text-align: center;
+  padding: 20px;
+  margin-top:40px;
+
+}
+
+@media(max-width:600px){
+  #main{
+    width:100%;
+    float:none;}
+
+    #sidebar{
+      width:100%;
+      float:none;}
+
+    #sidebar2{
+      width:100%;
+      float:none;}
+
+    #sidebar3{
+      width:100%;
+      float:none;}
+    #imap{
+      width:100%;
+      float:none;
+    }
+
+}
+/*https://www.esri.com/en-us/home*/
